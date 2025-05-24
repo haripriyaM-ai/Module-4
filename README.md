@@ -32,7 +32,7 @@ Thus, the program is verified successfully
 
 ---
 
-## EXP 17: Dictionary Operations in Python: Merging Two Dictionaries
+# EXP 17: Dictionary Operations in Python: Merging Two Dictionaries
 
 ## Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
